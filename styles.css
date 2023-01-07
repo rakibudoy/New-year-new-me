@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+}
+.banner{
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+}
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+.banner-description{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background:#F15B22;
+}
+.previous-year{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+.about{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 178px;
+    
+}
+.My-Plans{
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 230px;
+    top: 1792.3px;
+
+}
+.section-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+    
+
+}
+.skills-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    position: absolute;
+    width: 493.96px;
+    height: 10px;
+    left: 230px;
+    top: 140px;
+
+}
+.skill{
+    background: #FFFFFF;
+    border: 0px;
+    padding: 30px;
+    text-align: center;
+}
+.mindset{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+    gap: 130px;
+}
+.mindset-title{
+    position: absolute;
+    width: 459px;
+    height: 182px;
+    left: 230px;
+    top: 2223px;
+}
+
+.btn-secondary{
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    width: 160px;
+    height: 64px;
+    top: 200px;
+    background-color: #FFFFFF;
+    display: inline-flexbox;
+}
+.contact{
+    position: absolute;
+    height: 317px;
+    width: 100%;
+    left: 0px;
+    top: 2782.26px;
+    padding: 5px 10px 0px;
+    display: flex;
+    background-color: black;
+    color: #FFFFFF;
+
+}
+.subscribe{
+    
+    width: 325px;
+    height: 204px;
+    left: 100px;
+    top: 10px;
+}
+.btn-thirdly{
+    position: absolute;
+    width: 170.11px;
+    height: 64px;
+    left: 275px;
+    top: 80px;
+    background-color: #F15B22;
+
+}
